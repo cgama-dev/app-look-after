@@ -1,0 +1,26 @@
+{
+  "name": "app-look-after",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=development  jest --verbose=true",
+    "start": "nodemon src/bin/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "jest": "^24.5.0",
+    "moment": "^2.24.0",
+    "nano": "^8.0.1",
+    "supertest": "^4.0.2",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
