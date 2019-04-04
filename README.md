@@ -1,6 +1,6 @@
-## Índice
+## Index
 
-- [Índice](#%C3%ADndice)
+- [Index](#index)
 - [About](#about)
   - [Links](#links)
 - [Technology](#technology)
